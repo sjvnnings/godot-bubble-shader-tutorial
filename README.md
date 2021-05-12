@@ -2,4 +2,4 @@
  Source project for my Godot Bubble Shader tutorial on Youtube.
  The only difference between this and what is used in the video is some environmental changes to create the render at the end.
  
- If all you care about is the shader itself, you can find it with the name [shader_bubble.shader (or click this link)](https://github.com/sjvnnings/godot-bubble-shader-tutorial/blob/main/shader_bubble.shader)
+ If all you care about is the shader itself, you can find it [here](https://github.com/sjvnnings/godot-bubble-shader-tutorial/blob/main/shader_bubble.shader)
